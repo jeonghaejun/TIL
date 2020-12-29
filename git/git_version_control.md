@@ -38,8 +38,8 @@ working directory 👉 staging area 👉 repository
 | 명령어                           | 설명                                                         |
 | -------------------------------- | ------------------------------------------------------------ |
 | `git init`                       | 프로젝트(소스코드가 있는 디렉토리)를 git repo로 만드는 명령어. 소스코드가 저장되어 있는 디렉토리에서 해당 명령어를 실행하여야 한다. |
-| `git status`                     |                                                              |
-| `git log`                        |                                                              |
+| `git status`                     | 워킹 디렉토리의 파일상태 확인                                |
+| `git log`                        | 저장소의 커밋 히스토리를 시간순 출력해준다.                  |
 | `git add <file/dirname>`         | modified -> staged 로 파일의 상태를 옮긴다.                  |
 | `git commit -m "<message>"`      | staging area에서 repository로 이동하는 명령                  |
 | `git restore <file/dirname>`     | Working tree 파일을 되돌린다.                                |

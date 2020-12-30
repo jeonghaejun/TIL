@@ -9,6 +9,7 @@
 ### 01. 공통교육
 
 1. github특강
-   * [CLI(Command-line interface)](git/CLI)
-   * [git버전관리](git/git_version_control)
-   * [git branch](git/git_branch)
+   * [CLI(Command-line interface)](https://github.com/jeonghaejun/TIL/blob/master/git/CLI.md)
+   * [git버전관리](https://github.com/jeonghaejun/TIL/blob/master/git/git_version_control.md)
+   * [git branch](https://github.com/jeonghaejun/TIL/blob/master/git/git_branch.md)
+

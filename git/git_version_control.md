@@ -29,6 +29,8 @@ working directory 👉 staging area 👉 repository
 
 ## git 기본명령어
 
+
+
 ### 처음시작 계정 설정
 
 ``git config --global user.name "이름" ``

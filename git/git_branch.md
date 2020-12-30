@@ -102,7 +102,9 @@ Remote repository(원격 저장소)를 사용하면
 
   아래는 gitflow workflow 방법에서 사용하는 브랜치의 흐름이다.
 
-<left><img src="https://gmlwjd9405.github.io/images/types-of-git-branch/total-branch.png" alt="img" style="zoom:50%;" />
+<left><img src="https://gmlwjd9405.github.io/images/types-of-git-branch/total-branch.png" alt="img" style="zoom:45%;" />
+
+
 | 명령어                                                       | 설명                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | `$git branch`                                                | 현재 내가 위치한 Branch 확인                                 |
@@ -117,4 +119,5 @@ Remote repository(원격 저장소)를 사용하면
 | `$ git push <name> <branch>` or `$ git push origin <branch>` | 원격저장소에 수정된 commit을 업로드, 원하는 Branch만 업로드 가능 |
 | `$ git pull <name> <branch>` or `$ git pull origin <branch>` | 원격저장소에 저장된 commit을 다운로드, 원하는 Branch만 다운로드 가능 |
 | `$ git clone <URL>`                                          | 타 로컬저장소에서 원격저장소에 있는 자료를 똑같이 복사해서 가져올 때 사용 |
+
 

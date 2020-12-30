@@ -119,5 +119,3 @@ Remote repository(원격 저장소)를 사용하면
 | `$ git push <name> <branch>` or `$ git push origin <branch>` | 원격저장소에 수정된 commit을 업로드, 원하는 Branch만 업로드 가능 |
 | `$ git pull <name> <branch>` or `$ git pull origin <branch>` | 원격저장소에 저장된 commit을 다운로드, 원하는 Branch만 다운로드 가능 |
 | `$ git clone <URL>`                                          | 타 로컬저장소에서 원격저장소에 있는 자료를 똑같이 복사해서 가져올 때 사용 |
-
-

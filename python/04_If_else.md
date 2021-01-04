@@ -23,6 +23,26 @@
 
     <img src="04_If_else.assets/image-20210104225904372.png" align="left" alt="image-20210104225904372"  />
 
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
 * 비교 연산자
 
   * `if`문의 조건에서 주로 사용
@@ -131,6 +151,10 @@
     <img src="04_If_else.assets/image-20210104231455047.png" align="left" alt="image-20210104231455047"  />
 
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    
+    <br/>
+    
+    <br/>
     
     <br/>
     

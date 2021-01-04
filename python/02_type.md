@@ -98,6 +98,8 @@
 
   <img src="02_type.assets/image-20210104212400905.png" align="left" alt="image-20210104212400905"  />
 
+  
+
 * 따움표 안에 동일한 따움표 사용 못한다.
 
   ```python

@@ -13,3 +13,8 @@
    * [git버전관리](https://github.com/jeonghaejun/TIL/blob/master/git/git_version_control.md)
    * [git branch](https://github.com/jeonghaejun/TIL/blob/master/git/git_branch.md)
 
+2. Python강의
+   * [변수](https://github.com/jeonghaejun/TIL/blob/master/python/01_value.md)
+   * [타입](https://github.com/jeonghaejun/TIL/blob/master/python/02_type.md)
+   * [연산자](https://github.com/jeonghaejun/TIL/blob/master/python/03_Operator.md)
+   * [조건문](https://github.com/jeonghaejun/TIL/blob/master/python/04_If_else.md)

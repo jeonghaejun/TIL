@@ -105,6 +105,8 @@
 
     <img src="04_If_else.assets/image-20210104230825089.png" align="left" alt="image-20210104230825089"  />
 
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    
     ```python
     age = 16
     if age < 19:
@@ -128,6 +130,8 @@
 
     <img src="04_If_else.assets/image-20210104231455047.png" align="left" alt="image-20210104231455047"  />
 
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    
     ```python
     age = 22
     if age < 19:

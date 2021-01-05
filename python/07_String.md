@@ -9,6 +9,8 @@
 
 <img src="07_String.assets/image-20210105214126037.png" align="left" alt="image-20210105214126037"  />
 
+<br/><br/><br/><br/><br/><br/>
+
 ```python
 s = 'python'
 print(s[2])    # t
@@ -36,6 +38,8 @@ for i in range(len(s)):
 
 <img src="07_String.assets/image-20210105215147041.png" align="left" alt="image-20210105215147041" style="zoom:120%;" />
 
+<br/><br/><br/><br/><br/><br/>
+
 ```python
 s = '0123456789'
 print(s[2:5])  # 234
@@ -45,6 +49,8 @@ print(s[::2])  # 02468
 ```
 
 <img src="07_String.assets/image-20210105215322585.png" align="left" alt="image-20210105215322585" style="zoom:150%;" />
+
+<br/><br/><br/><br/><br/><br/>
 
 ```python
 file = '20200101-104830.jpg'
@@ -88,6 +94,8 @@ print('지역코드:', region)                 # 지역코드: 45
 * `.count(str)`: `str` 문자열이 몇번 등장하는지 리턴
 
 <img src="07_String.assets/image-20210105220007945.png" align="left" alt="image-20210105220007945" style="zoom:120%;" />
+
+<br/><br/><br/><br/><br/><br/>
 
 ```python
 s = "python programming"

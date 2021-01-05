@@ -18,3 +18,6 @@
    * [타입](https://github.com/jeonghaejun/TIL/blob/master/python/02_type.md)
    * [연산자](https://github.com/jeonghaejun/TIL/blob/master/python/03_Operator.md)
    * [조건문](https://github.com/jeonghaejun/TIL/blob/master/python/04_If_else.md)
+   * [반복문](https://github.com/jeonghaejun/TIL/blob/master/python/05_while%2Cfor.md)
+   * [함수](https://github.com/jeonghaejun/TIL/blob/master/python/06_Funtion.md)
+   * [문자열 관리](https://github.com/jeonghaejun/TIL/blob/master/python/07_String.md)

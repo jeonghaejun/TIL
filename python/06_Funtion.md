@@ -6,21 +6,21 @@
 
 * 함수로 정의하여 반복을 없앤다.
 
-  ```python
-  def calcsum(n):
-      total = 0
-      for num in range(n+1):
-          total += num
-      return total
-  
-  print(' ~ 4 =', calcsum(4))
-  print(' ~ 10 =', calcsum(10))
-  
-  ~ 4 = 10
-  ~ 10 = 55
-  ```
+```python
+def calcsum(n):
+    total = 0
+    for num in range(n+1):
+        total += num
+    return total
 
-  
+print(' ~ 4 =', calcsum(4))
+print(' ~ 10 =', calcsum(10))
+
+~ 4 = 10
+~ 10 = 55
+```
+
+
 
 ## 인수
 
@@ -155,9 +155,29 @@ print('1 =', calcstep(1))               # 1 = 1
 
   <img src="06_Funtion.assets/image-20210105205719297.png" align="left" alt="image-20210105205719297"  />
 
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
+  <br/>
+
 * 인수를 배치 순서가 아닌 인수의 명칭으로 매칭하는 방법
 
   <img src="06_Funtion.assets/image-20210105205913547.png" align="left" alt="image-20210105205913547"  />
+  
+  <br/>
+  
+  <br/>
+  
+  <br/>
+  
+  <br/>
+  
+  <br/>
 
 ```python
 def calcstep(begin, end, step):

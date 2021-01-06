@@ -21,3 +21,7 @@
    * [반복문](https://github.com/jeonghaejun/TIL/blob/master/python/05_while%2Cfor.md)
    * [함수](https://github.com/jeonghaejun/TIL/blob/master/python/06_Funtion.md)
    * [문자열 관리](https://github.com/jeonghaejun/TIL/blob/master/python/07_String.md)
+   * [리스트와 튜플](https://github.com/jeonghaejun/TIL/blob/master/python/08_List_Tuple.md)
+   * [사전과 집합](https://github.com/jeonghaejun/TIL/blob/master/python/09_Dictionary.md)
+   * [컬렉션 관리](https://github.com/jeonghaejun/TIL/blob/master/python/10_Collection%20management.md)
+

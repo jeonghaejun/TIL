@@ -94,6 +94,8 @@ for sub in lol:
 # 6 7 8 9
 ```
 
+<br><br><br>
+
 ```python
 # 이중 리스트 예제
 

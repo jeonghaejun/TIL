@@ -24,4 +24,7 @@
    * [리스트와 튜플](https://github.com/jeonghaejun/TIL/blob/master/python/08_List_Tuple.md)
    * [사전과 집합](https://github.com/jeonghaejun/TIL/blob/master/python/09_Dictionary.md)
    * [컬렉션 관리](https://github.com/jeonghaejun/TIL/blob/master/python/10_Collection%20management.md)
+   * [표준모듈](https://github.com/jeonghaejun/TIL/blob/master/python/11_Python_module.md)
+   * [예외처리](https://github.com/jeonghaejun/TIL/blob/master/python/12_Tri.md)
+   * [파일](https://github.com/jeonghaejun/TIL/blob/master/python/13_file.md)
 

@@ -145,7 +145,7 @@ print(end-start)  # 0.0
 # 입출력을 줄여야 처리속도를 빠르게 할수있다.
 ```
 
-* time sleep 실행 멈춤
+* `time sleep` 실행 멈춤
 
 ```python
 # 코딩 중간에 시간텀이 필요할 때
